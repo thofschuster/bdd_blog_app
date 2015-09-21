@@ -15,3 +15,10 @@ Blog / App
   -Body
   -User_ID
   -Article_ID
+  
+  <<<<<<<<<<<<<<<<<<<<<< completed
+  
+  - user sign-up
+  - log in / log out
+  - restrict access to certain features
+  
